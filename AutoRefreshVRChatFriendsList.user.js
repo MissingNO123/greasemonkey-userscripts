@@ -1,14 +1,15 @@
 // ==UserScript==
-// @name     Auto Refresh VRChat Friends List Page (And Turn On Push Notifs)
-// @namespace		https://alteregobot.me/
+// @name        Auto Refresh VRChat Friends List Page (And Turn On Push Notifs)
+// @namespace   https://alteregobot.me/
 // @description Auto Refresh VRChat Friends List Page, And Automatically Turn On Push Notifs
-// @version  1
-// @grant    none
-// @include https://vrchat.com/home/friends
-// @include https://vrchat.com/home/locations
-// @include https://vrchat.com/home/user/usr_*
-// @include https://api.vrchat.cloud/api/1/visits
-// @require https://code.jquery.com/jquery-2.2.4.min.js?version=1
+// @author      MissingNO123
+// @version     1
+// @grant       none
+// @include     https://vrchat.com/home/friends
+// @include     https://vrchat.com/home/locations
+// @include     https://vrchat.com/home/user/usr_*
+// @include     https://api.vrchat.cloud/api/1/visits
+// @require     https://code.jquery.com/jquery-2.2.4.min.js?version=1
 // ==/UserScript==
 
 setTimeout(location.reload.bind(location), 30 * 60 * 1000);
