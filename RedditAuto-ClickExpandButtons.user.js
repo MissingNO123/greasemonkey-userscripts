@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name        Reddit Auto-Click Expand Buttons
 // @description Automatically expands all posts on a subreddit
+// @author      MissingNO123
 // @version     1
 // @grant       none
 // @namespace   alteregobot.me
