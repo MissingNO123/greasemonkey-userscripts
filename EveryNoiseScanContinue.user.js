@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         EveryNoise Scan Continue
 // @namespace    https://alteregobot.me/
-// @description  press n to continue scan instead of having to scroll up every time
+// @description  press N to continue scanning on everynoise.com, instead of having to scroll up every time
 // @author       MissingNO123
 // @include      https://everynoise.com/*
 // @version      1
