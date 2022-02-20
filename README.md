@@ -12,3 +12,6 @@ Automatically expands every post in a subreddit. Written in 10 minutes, probably
 
 ### TechReview Anti-Paywall
 More of a template than anything else really, but it's nice to know sites will load the whole article's content before hitting you with their subscription fee
+
+### YouTube Un-Shortify
+Redirects youtube.com/shorts/* links to youtube.com/watch?v=* instead
