@@ -15,3 +15,8 @@ More of a template than anything else really, but it's nice to know sites will l
 
 ### YouTube Un-Shortify
 Redirects youtube.com/shorts/* links to youtube.com/watch?v=* instead
+
+### Booth Automatic Language Changer
+Changes URLs on booth.pm/*/ automatically to your preferred language, since the website doesn't do that for you for some reason. 
+This is very helpful for when you click on links with a different locale in the URL.
+Change `prefLocale` in the first line to your preferred default language.
