@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name     		Booth Automatic Language Changer
-// @description	Change from ja/ko/zh/etc to your preferred language
+// @description	Change from en/ja/ko/zh/etc to your preferred language
 // @version  		1
 // @namespace		https://greasyfork.org/en/users/878446-missingno123
 // @grant    		none
