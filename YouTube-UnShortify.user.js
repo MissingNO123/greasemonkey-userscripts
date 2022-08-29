@@ -2,10 +2,11 @@
 // @name        Youtube Un-Shortify
 // @description Redirect YouTube #Shorts to regular video pages
 // @author      MissingNO123
-// @namespace   https://alteregobot.me
+// @namespace   https://greasyfork.org/en/users/878446-missingno123
 // @version     1
 // @grant       none
 // @match       https://*.youtube.com/shorts/*
+// @run-at      document-start
 // ==/UserScript==
 
 (function() {
