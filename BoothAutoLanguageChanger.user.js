@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name     		Booth Automatic Language Changer
 // @description	Change from en/ja/ko/zh/etc to your preferred language
+// @license     GNU GPLv3
 // @version  		1
 // @namespace		https://greasyfork.org/en/users/878446-missingno123
 // @grant    		none
