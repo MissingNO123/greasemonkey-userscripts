@@ -1,5 +1,9 @@
 // ==UserScript==
 // @name     		Booth Automatic Language Changer
+// @name:ja         Booth.pm 自動言語チェンジャー
+// @name:ko         Booth.pm 자동 언어 체인저
+// @name:zh-CN      Booth.pm自动语言更换器
+// @name:zh-TW      Booth.pm自动语言更换器
 // @description	Change from en/ja/ko/zh/etc to your preferred language
 // @license     GNU GPLv3
 // @version  		1
