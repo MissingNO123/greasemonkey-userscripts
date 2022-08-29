@@ -4,13 +4,17 @@
 // @name:ko         Booth.pm 자동 언어 체인저
 // @name:zh-CN      Booth.pm自动语言更换器
 // @name:zh-TW      Booth.pm自动语言更换器
-// @description	Change from en/ja/ko/zh/etc to your preferred language
-// @license     GNU GPLv3
-// @version  		1
-// @namespace		https://greasyfork.org/en/users/878446-missingno123
-// @grant    		none
-// @include    	/^https?:\/\/(www.)?booth\.pm\/([a-zA-Z]{2}|[a-zA-Z]{2}-[a-zA-Z]{2})\/.*$/
-// @run-at      document-start
+// @description			Change from ja/ko/zh to your preferred language
+// @description:ja	en/ko/zhからお好みの言語に変更する。
+// @description:ko	en/ja/zh에서 원하는 언어로 변경
+// @description:zh-CN	从en/ja/ko改成你喜欢的语言
+// @description:zh-TW 从en/ja/ko改成你喜欢的语言
+// @license     		GNU GPLv3
+// @version  				1
+// @namespace				https://greasyfork.org/en/users/878446-missingno123
+// @grant    				none
+// @include    			/^https?:\/\/(www.)?booth\.pm\/([a-zA-Z]{2}|[a-zA-Z]{2}-[a-zA-Z]{2})\/.*$/
+// @run-at      		document-start
 // ==/UserScript==
 
 var prefLocale = '/en/'; // en, ja, ko, zh-tw, zh-cn
