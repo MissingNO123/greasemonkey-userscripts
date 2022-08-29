@@ -3,7 +3,7 @@
 // @description Redirect YouTube #Shorts to regular video pages
 // @author      MissingNO123
 // @namespace   https://greasyfork.org/en/users/878446-missingno123
-// @version     1
+// @version     2
 // @grant       none
 // @match       https://*.youtube.com/shorts/*
 // @run-at      document-start
